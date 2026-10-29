@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="14 36 534 508" width="534" height="508" role="img" aria-label="EdgeTX Flight Log Viewer">
+  <polygon points="317.3,78.3 452.3,84.7 491.7,252.7" fill="#3a9bd0"/>
+  <polygon points="482.0,216.5 543.9,336.5 418.2,454.7" fill="#3ecfb0"/>
+  <polygon points="444.7,428.2 371.7,541.8 206.5,492.0" fill="#c4af30"/>
+  <polygon points="242.7,501.7 107.7,495.3 68.3,327.3" fill="#b34c63"/>
+  <polygon points="78.0,363.5 16.1,243.5 141.8,125.3" fill="#a33cc8"/>
+  <polygon points="115.3,151.8 188.3,38.2 353.5,88.0" fill="#3d55c9"/>
+  <polygon points="308.5,87.0 456.5,185.7 471.6,363.0 342.4,485.3 166.2,460.5 75.7,307.4 139.1,141.1" fill="#14181d"/>
+  <g fill="none" stroke="#faf7f0" stroke-width="12" stroke-linejoin="miter" stroke-linecap="butt">
+    <path d="M173,176 H147 V208 H173 M147,192 H169"/>
+    <path d="M195,176 H208 Q221,176 221,189 V195 Q221,208 208,208 H195 Z"/>
+    <path d="M269,176 H243 V208 H269 V192 H256"/>
+    <path d="M317,176 H291 V208 H317 M291,192 H313"/>
+    <path d="M339,176 H365 M352,176 V208"/>
+    <path d="M387,176 L413,208 M413,176 L387,208"/>
+  </g>
+  <g fill="none" stroke="#faf7f0" stroke-width="38" stroke-linejoin="miter" stroke-linecap="butt">
+    <path d="M205,263 H159 V391 M159,327 H197"/>
+    <path d="M257,263 V391 H303"/>
+    <path d="M401,263 H355 V391 H401 V327 H378"/>
+  </g>
+  <path d="M178 452 C 240 458 300 450 366 430" fill="none" stroke="#ff8a3d" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="368" cy="429" r="11" fill="#ff8a3d" stroke="#14181d" stroke-width="4"/>
+</svg>

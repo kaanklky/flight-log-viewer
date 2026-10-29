@@ -1,0 +1,9 @@
+.git
+.github
+docs
+tests
+scripts
+node_modules
+logs
+package.json
+README.md
