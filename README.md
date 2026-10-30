@@ -5,7 +5,7 @@
 <h1 align="center">EdgeTX Flight Log Viewer</h1>
 
 <p align="center">
-  <a href="https://flg.kaankolkoy.net"><b>https://flg.kaankolkoy.net</b></a><br>
+  <a href="https://flv.kaankolkoy.net"><b>https://flv.kaankolkoy.net</b></a><br>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ## Using it
 
-Use the hosted version at https://flg.kaankolkoy.net, or run your own copy (below). Your logs are read in your browser and never uploaded.
+Use the hosted version at https://flv.kaankolkoy.net, or run your own copy (below). Your logs are read in your browser and never uploaded.
 
 1. Put your EdgeTX CSV logs in the `logs/` folder, or use **Open from computer** to load a file from disk.
 2. Pick a log from the **Saved logs** dropdown (shown as `YYYY-MM-DD HH:MM:SS`).

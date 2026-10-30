@@ -17,7 +17,7 @@
   <g fill="none" stroke="#faf7f0" stroke-width="38" stroke-linejoin="miter" stroke-linecap="butt">
     <path d="M205,263 H159 V391 M159,327 H197"/>
     <path d="M257,263 V391 H303"/>
-    <path d="M401,263 H355 V391 H401 V327 H378"/>
+    <path fill="#faf7f0" stroke="none" d="M336,244 H364 L378,340 L392,244 H420 L393,410 H363 Z"/>
   </g>
   <path d="M178 452 C 240 458 300 450 366 430" fill="none" stroke="#ff8a3d" stroke-width="9" stroke-linecap="round"/>
   <circle cx="368" cy="429" r="11" fill="#ff8a3d" stroke="#14181d" stroke-width="4"/>
